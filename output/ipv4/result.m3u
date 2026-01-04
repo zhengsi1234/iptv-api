@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zhengsi1234/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://115.190.210.84:3000/icon/CCTV1.png" group-title="🕘️更新时间",2026-01-04 18:15:51
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://115.190.210.84:3000/icon/CCTV1.png" group-title="🕘️更新时间",2026-01-05 06:15:13
 http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://115.190.210.84:3000/icon/CCTV5.png" group-title="📺央视频道",CCTV-5
 http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://115.190.210.84:3000/icon/CCTV9.png" group-title="📺央视频道",CCTV-9
-https://v4-49c1f938208318cdf8288bc36b62472a.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=90b7dd0c1e8956cfe5ebd41a34e882d1
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://115.190.210.84:3000/icon/CCTV9.png" group-title="📺央视频道",CCTV-9
 https://v4-7b232e9a7ece13f936b4e19cb1594132.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5ce653679128614e5f2a5f9fe7008c67
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://115.190.210.84:3000/icon/CCTV9.png" group-title="📺央视频道",CCTV-9
+https://v4-49c1f938208318cdf8288bc36b62472a.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=90b7dd0c1e8956cfe5ebd41a34e882d1
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="http://115.190.210.84:3000/icon/CETV1.png" group-title="📺央视频道",CETV-1
 http://171.83.103.119:9999/rtp/239.69.1.110:10298
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="http://115.190.210.84:3000/icon/CETV1.png" group-title="📺央视频道",CETV-1
@@ -25,6 +25,8 @@ http://yp.qqqtv.top/1/api.php?id=CCTV-%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86&auth=
 http://171.83.103.119:9999/rtp/239.69.1.79:10114
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="http://115.190.210.84:3000/icon/北京生活.png" group-title="☘️北京频道",北京生活
 https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-name="全纪实" tvg-logo="http://115.190.210.84:3000/icon/全纪实.png" group-title="☘️上海频道",全纪实
+http://139.196.151.191/rtp/239.45.3.135:5140
 #EXTINF:-1 tvg-name="全纪实" tvg-logo="http://115.190.210.84:3000/icon/全纪实.png" group-title="☘️上海频道",全纪实
 http://183.220.107.138:4022/rtp/239.10.0.105:5140
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="http://115.190.210.84:3000/icon/新闻综合.png" group-title="☘️上海频道",新闻综合
@@ -66,9 +68,9 @@ https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="http://115.190.210.84:3000/icon/东森综合.png" group-title="🌊港·澳·台",东森综合
 https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="http://115.190.210.84:3000/icon/东森超视.png" group-title="🌊港·澳·台",东森超视
-https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
+https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="http://115.190.210.84:3000/icon/东森超视.png" group-title="🌊港·澳·台",东森超视
-https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="http://115.190.210.84:3000/icon/东森电影.png" group-title="🌊港·澳·台",东森电影
 https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="Now华剧" tvg-logo="http://115.190.210.84:3000/icon/Now华剧.png" group-title="🌊港·澳·台",Now华剧
@@ -98,14 +100,18 @@ https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="天津体育" tvg-logo="http://115.190.210.84:3000/icon/天津体育.png" group-title="🏀体育频道",天津体育
 http://yp.qqqtv.top/1/api.php?id=%E5%A4%A9%E6%B4%A5%E4%BD%93%E8%82%B2&auth=666858
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="http://115.190.210.84:3000/icon/新动漫.png" group-title="🪁动画频道",新动漫
-http://dassby.qqff.top:99/live/新动漫/index.m3u8
-#EXTINF:-1 tvg-name="新动漫" tvg-logo="http://115.190.210.84:3000/icon/新动漫.png" group-title="🪁动画频道",新动漫
 rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="http://115.190.210.84:3000/icon/新动漫.png" group-title="🪁动画频道",新动漫
+rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
 #EXTINF:-1 tvg-name="CN卡通" tvg-logo="http://115.190.210.84:3000/icon/CN卡通.png" group-title="🪁动画频道",CN卡通
 https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1 tvg-name="24H国漫热播" tvg-logo="http://115.190.210.84:3000/icon/24H国漫热播.png" group-title="🪁动画频道",24H国漫热播
+https://lunbo.freetv.top/yy/1353937086
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="http://115.190.210.84:3000/icon/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="http://115.190.210.84:3000/icon/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 #EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="http://115.190.210.84:3000/icon/蜡笔小新.png" group-title="🪁动画频道",蜡笔小新
 http://www.douzhicloud.site:35455/bilibili/30837590
+#EXTINF:-1 tvg-name="闯关东" tvg-logo="http://115.190.210.84:3000/icon/闯关东.png" group-title="🏛经典剧场",闯关东
+http://129.150.54.232:10001/yy/1354689861
