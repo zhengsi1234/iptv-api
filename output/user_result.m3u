@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zhengsi1234/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://115.190.210.84:3000/icon/CCTV1.png" group-title="🕘️更新时间",2026-01-07 06:15:58
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://115.190.210.84:3000/icon/CCTV1.png" group-title="🕘️更新时间",2026-01-07 18:18:41
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://115.190.210.84:3000/icon/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -18,9 +18,9 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://115.190.210.84:3000/icon/CCTV4.png" group-title="📺央视频道",CCTV-4
 http://z.b.bkpcp.top/m.php?id=CCTV-4国际
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://115.190.210.84:3000/icon/CCTV5.png" group-title="📺央视频道",CCTV-5
-http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://115.190.210.84:3000/icon/CCTV5.png" group-title="📺央视频道",CCTV-5
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://115.190.210.84:3000/icon/CCTV5.png" group-title="📺央视频道",CCTV-5
+http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://115.190.210.84:3000/icon/CCTV5+.png" group-title="📺央视频道",CCTV-5+
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://115.190.210.84:3000/icon/CCTV5+.png" group-title="📺央视频道",CCTV-5+
@@ -395,8 +395,6 @@ https://stream1.freetv.fun/wu-yi-jing-ji-1.m3u8
 https://stream1.freetv.fun/wu-yi-jiao-yu-7.m3u8
 #EXTINF:-1 tvg-name="武汉教育" tvg-logo="http://115.190.210.84:3000/icon/武汉教育.png" group-title="☘️湖北频道",武汉教育
 https://stream1.freetv.fun/wu-yi-jiao-yu-5.m3u8
-#EXTINF:-1 tvg-name="武汉文体" tvg-logo="http://115.190.210.84:3000/icon/武汉文体.png" group-title="☘️湖北频道",武汉文体
-http://171.83.103.119:9999/rtp/239.69.1.147:10518
 #EXTINF:-1 tvg-name="江夏新闻综合" tvg-logo="http://115.190.210.84:3000/icon/江夏新闻综合.png" group-title="☘️湖北频道",江夏新闻综合
 https://stream1.freetv.fun/jiang-xia-xin-wen-zong-he-5.m3u8
 #EXTINF:-1 tvg-name="十堰新闻" tvg-logo="http://115.190.210.84:3000/icon/十堰新闻.png" group-title="☘️湖北频道",十堰新闻
@@ -444,7 +442,7 @@ https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="http://115.190.210.84:3000/icon/纬来体育.png" group-title="🌊港·澳·台",纬来体育
 https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="http://115.190.210.84:3000/icon/纬来体育.png" group-title="🌊港·澳·台",纬来体育
-https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
+https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="http://115.190.210.84:3000/icon/纬来育乐.png" group-title="🌊港·澳·台",纬来育乐
 https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="http://115.190.210.84:3000/icon/纬来育乐.png" group-title="🌊港·澳·台",纬来育乐
@@ -470,13 +468,13 @@ https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="http://115.190.210.84:3000/icon/三立新闻.png" group-title="🌊港·澳·台",三立新闻
 https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="http://115.190.210.84:3000/icon/东森综合.png" group-title="🌊港·澳·台",东森综合
-https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
+https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="http://115.190.210.84:3000/icon/东森综合.png" group-title="🌊港·澳·台",东森综合
-https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="http://115.190.210.84:3000/icon/东森超视.png" group-title="🌊港·澳·台",东森超视
-https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
+https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="http://115.190.210.84:3000/icon/东森超视.png" group-title="🌊港·澳·台",东森超视
 https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="http://115.190.210.84:3000/icon/东森超视.png" group-title="🌊港·澳·台",东森超视
+https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="http://115.190.210.84:3000/icon/东森电影.png" group-title="🌊港·澳·台",东森电影
 https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="http://115.190.210.84:3000/icon/东森电影.png" group-title="🌊港·澳·台",东森电影
@@ -498,9 +496,9 @@ http://z.b.bkpcp.top/m.php
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://115.190.210.84:3000/icon/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://goo.bkpcp.top/mg/dzdy
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://115.190.210.84:3000/icon/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
-http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://115.190.210.84:3000/icon/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://115.190.210.84:3000/icon/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
+http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="http://115.190.210.84:3000/icon/淘剧场.png" group-title="🎬电影频道",淘剧场
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="http://115.190.210.84:3000/icon/淘剧场.png" group-title="🎬电影频道",淘剧场
@@ -662,9 +660,9 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="http://115.190.210.84:3000/icon/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="http://115.190.210.84:3000/icon/新动漫.png" group-title="🪁动画频道",新动漫
-http://dassby.qqff.top:99/live/新动漫/index.m3u8
-#EXTINF:-1 tvg-name="新动漫" tvg-logo="http://115.190.210.84:3000/icon/新动漫.png" group-title="🪁动画频道",新动漫
 rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="http://115.190.210.84:3000/icon/新动漫.png" group-title="🪁动画频道",新动漫
+rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
 #EXTINF:-1 tvg-name="青春动漫" tvg-logo="http://115.190.210.84:3000/icon/青春动漫.png" group-title="🪁动画频道",青春动漫
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288008/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="青春动漫" tvg-logo="http://115.190.210.84:3000/icon/青春动漫.png" group-title="🪁动画频道",青春动漫
@@ -767,6 +765,8 @@ http://live.iill.top/yy.php?id=1355265814
 http://luobo.bkpcp.top/yy/1353426319
 #EXTINF:-1 tvg-name="封神榜" tvg-logo="http://115.190.210.84:3000/icon/封神榜.png" group-title="🏛经典剧场",封神榜
 http://www.clmy.cc:35455/yy/1353426319
+#EXTINF:-1 tvg-name="闯关东" tvg-logo="http://115.190.210.84:3000/icon/闯关东.png" group-title="🏛经典剧场",闯关东
+http://129.150.54.232:10001/yy/1354689861
 #EXTINF:-1 tvg-name="上海滩" tvg-logo="http://115.190.210.84:3000/icon/上海滩.png" group-title="🏛经典剧场",上海滩
 http://luobo.bkpcp.top/yy/1382745184
 #EXTINF:-1 tvg-name="上海滩" tvg-logo="http://115.190.210.84:3000/icon/上海滩.png" group-title="🏛经典剧场",上海滩
