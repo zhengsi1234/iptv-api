@@ -1,13 +1,16 @@
 🕘️更新时间,#genre#
-2026-02-06 06:20:36,http://pull-hls-f1.douyincdn.com/media/stream-695106910011261612/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&wsSecret=85bb061c39ad9227e9c420993c2e56b8&wsTime=697ea150
+2026-02-06 18:33:48,http://23.237.228.134/live5/CCTV2.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://pull-hls-f1.douyincdn.com/media/stream-695106910011261612/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&wsSecret=85bb061c39ad9227e9c420993c2e56b8&wsTime=697ea150
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
+CCTV-2,http://pull-hls-f1.douyincdn.com/media/stream-695106910011261612/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&wsSecret=85bb061c39ad9227e9c420993c2e56b8&wsTime=697ea150
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
+CCTV-3,http://sxtylt.sohu.blog:9003/hls/3/index.m3u8
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5%2B
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV-5%2B
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
+CCTV-11,http://sxtylt.sohu.blog:9003/hls/12/index.m3u8
+CCTV-15,http://sxtylt.sohu.blog:9003/hls/16/index.m3u8
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CETV-1,https://iptv.catvod.com/live.php?id=CETV1
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
@@ -15,24 +18,35 @@ CETV-2,https://iptv.catvod.com/live.php?id=CETV2
 CETV-4,https://iptv.catvod.com/live.php?id=CETV4
 
 📡卫视频道,#genre#
-广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
+广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
+湖南卫视,http://sxtylt.sohu.blog:9003/hls/33/index.m3u8
+北京卫视,http://sxtylt.sohu.blog:9003/hls/20/index.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
+重庆卫视,http://sxtylt.sohu.blog:9003/hls/22/index.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
+东南卫视,http://sxtylt.sohu.blog:9003/hls/24/index.m3u8
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
-广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+甘肃卫视,http://sxtylt.sohu.blog:9003/hls/25/index.m3u8
 广西卫视,http://23.237.228.134/live6/guizhou.m3u8
+广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
+海南卫视,http://sxtylt.sohu.blog:9003/hls/28/index.m3u8
+河北卫视,http://sxtylt.sohu.blog:9003/hls/29/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://sxtylt.sohu.blog:9003/hls/30/index.m3u8
+吉林卫视,http://sxtylt.sohu.blog:9003/hls/34/index.m3u8
+内蒙古卫视,http://sxtylt.sohu.blog:9003/hls/38/index.m3u8
 宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
+宁夏卫视,http://sxtylt.sohu.blog:9003/hls/39/index.m3u8
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
-深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
+深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 
 💰央视数字频道,#genre#
@@ -45,11 +59,11 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV4
 ☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
+全纪实,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 
 ☘️湖北频道,#genre#
-武汉新闻,http://vapi.91kds.cc/live2/hbwhtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=hbwhtv1
 
 🌊港·澳·台,#genre#
 Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
@@ -64,7 +78,6 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
-金鹰卡通,http://221.13.235.129:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
