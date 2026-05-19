@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-19 06:52:20,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-05-19 20:41:09,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -395,6 +395,7 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 三国演义,https://live.iill.top/huya/11602081
 三国演义,http://live.iill.top/yy.php?id=1354936241
 水浒传,http://www.clmy.cc:35455/yy/1353873252
+水浒传,http://live.ottiptv.cc/huya/26355860
 新白娘子传奇,http://lu.wqwqwq.sbs/yy/1354490667
 新白娘子传奇,http://luobo.bkpcp.top/yy/1354490667
 济公游记,http://live.iill.top/yy.php?id=1355265814
