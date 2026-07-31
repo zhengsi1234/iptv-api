@@ -1,10 +1,18 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zhengsi1234/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://115.190.210.84:3000/icon/CCTV1.png" group-title="🕘️更新时间",2026-07-31 06:58:25
-http://39.77.159.145:4002/rtp/239.253.254.80:8000
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://115.190.210.84:3000/icon/CCTV1.png" group-title="🕘️更新时间",2026-07-31 19:55:38
+http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://115.190.210.84:3000/icon/CCTV1.png" group-title="📺央视频道",CCTV-1
+http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://115.190.210.84:3000/icon/CCTV5.png" group-title="📺央视频道",CCTV-5
-http://39.77.159.145:4002/rtp/239.253.254.80:8000
+http://36.49.50.4:8800/rtp/239.37.0.121:5540
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://115.190.210.84:3000/icon/CCTV5.png" group-title="📺央视频道",CCTV-5
 http://36.49.50.4:8800/rtp/239.37.0.232:5540
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://115.190.210.84:3000/icon/CCTV6.png" group-title="📺央视频道",CCTV-6
+http://192.151.150.154/live/cctv6hd.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://115.190.210.84:3000/icon/CCTV7.png" group-title="📺央视频道",CCTV-7
+http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://115.190.210.84:3000/icon/CCTV15.png" group-title="📺央视频道",CCTV-15
+http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://115.190.210.84:3000/icon/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 http://192.151.150.154/live/hbwshd.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://115.190.210.84:3000/icon/河南卫视.png" group-title="📡卫视频道",河南卫视
@@ -19,8 +27,6 @@ http://204.12.221.218:8181/3m1080p/btvkk.m3u8
 http://183.220.107.138:4022/rtp/239.10.0.105:5140
 #EXTINF:-1 tvg-name="金山电视台" tvg-logo="http://115.190.210.84:3000/icon/金山电视台.png" group-title="☘️上海频道",金山电视台
 https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
-#EXTINF:-1 tvg-name="武汉新闻" tvg-logo="http://115.190.210.84:3000/icon/武汉新闻.png" group-title="☘️湖北频道",武汉新闻
-http://vapi.91kds.cc/live2/hbwhtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=hbwhtv1
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://115.190.210.84:3000/icon/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://115.190.210.84:3000/icon/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
@@ -28,9 +34,9 @@ rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://115.190.210.84:3000/icon/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://115.190.210.84:3000/icon/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
-http://dassby.qqff.top:99/live/CHC高清/index.m3u8
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://115.190.210.84:3000/icon/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://115.190.210.84:3000/icon/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
+http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 #EXTINF:-1 tvg-name="IPTV经典电影" tvg-logo="http://115.190.210.84:3000/icon/IPTV经典电影.png" group-title="🎬电影频道",IPTV经典电影
 http://183.220.107.138:4022/rtp/239.10.0.122:5140
 #EXTINF:-1 tvg-name="天津体育" tvg-logo="http://115.190.210.84:3000/icon/天津体育.png" group-title="🏀体育频道",天津体育

@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zhengsi1234/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://115.190.210.84:3000/icon/CCTV1.png" group-title="🕘️更新时间",2026-07-31 06:58:25
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://115.190.210.84:3000/icon/CCTV1.png" group-title="🕘️更新时间",2026-07-31 19:55:38
+http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://115.190.210.84:3000/icon/CCTV1.png" group-title="📺央视频道",CCTV-1
+http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://115.190.210.84:3000/icon/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://115.190.210.84:3000/icon/CCTV1.png" group-title="📺央视频道",CCTV-1
-http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://115.190.210.84:3000/icon/CCTV2.png" group-title="📺央视频道",CCTV-2
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://115.190.210.84:3000/icon/CCTV2.png" group-title="📺央视频道",CCTV-2
@@ -18,7 +18,7 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://115.190.210.84:3000/icon/CCTV4.png" group-title="📺央视频道",CCTV-4
 http://z.b.bkpcp.top/m.php?id=CCTV-4国际
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://115.190.210.84:3000/icon/CCTV5.png" group-title="📺央视频道",CCTV-5
-http://39.77.159.145:4002/rtp/239.253.254.80:8000
+http://36.49.50.4:8800/rtp/239.37.0.121:5540
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://115.190.210.84:3000/icon/CCTV5.png" group-title="📺央视频道",CCTV-5
 http://36.49.50.4:8800/rtp/239.37.0.232:5540
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://115.190.210.84:3000/icon/CCTV5+.png" group-title="📺央视频道",CCTV-5+
@@ -26,13 +26,13 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://115.190.210.84:3000/icon/CCTV5+.png" group-title="📺央视频道",CCTV-5+
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://115.190.210.84:3000/icon/CCTV6.png" group-title="📺央视频道",CCTV-6
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
+http://192.151.150.154/live/cctv6hd.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://115.190.210.84:3000/icon/CCTV6.png" group-title="📺央视频道",CCTV-6
-http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://115.190.210.84:3000/icon/CCTV7.png" group-title="📺央视频道",CCTV-7
+http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://115.190.210.84:3000/icon/CCTV7.png" group-title="📺央视频道",CCTV-7
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://115.190.210.84:3000/icon/CCTV7.png" group-title="📺央视频道",CCTV-7
-http://goo.bkpcp.top/mg/CCTV7
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://115.190.210.84:3000/icon/CCTV8.png" group-title="📺央视频道",CCTV-8
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://115.190.210.84:3000/icon/CCTV8.png" group-title="📺央视频道",CCTV-8
@@ -62,9 +62,9 @@ https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/2
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://115.190.210.84:3000/icon/CCTV14.png" group-title="📺央视频道",CCTV-14
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://115.190.210.84:3000/icon/CCTV15.png" group-title="📺央视频道",CCTV-15
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://115.190.210.84:3000/icon/CCTV15.png" group-title="📺央视频道",CCTV-15
-https://smart.pendy.dpdns.org/Smart.php?id=cctv15
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://115.190.210.84:3000/icon/CCTV16.png" group-title="📺央视频道",CCTV-16
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://115.190.210.84:3000/icon/CCTV16.png" group-title="📺央视频道",CCTV-16
@@ -411,8 +411,6 @@ https://stream1.freetv.fun/shi-yan-xin-wen-3.m3u8
 https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 #EXTINF:-1 tvg-name="荆门新闻综合" tvg-logo="http://115.190.210.84:3000/icon/荆门新闻综合.png" group-title="☘️湖北频道",荆门新闻综合
 https://stream1.freetv.fun/jing-men-xin-wen-zong-he-3.m3u8
-#EXTINF:-1 tvg-name="武汉新闻" tvg-logo="http://115.190.210.84:3000/icon/武汉新闻.png" group-title="☘️湖北频道",武汉新闻
-http://vapi.91kds.cc/live2/hbwhtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=hbwhtv1
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://115.190.210.84:3000/icon/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://115.190.210.84:3000/icon/翡翠台.png" group-title="🌊港·澳·台",翡翠台
@@ -496,9 +494,9 @@ http://z.b.bkpcp.top/m.php
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://115.190.210.84:3000/icon/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://goo.bkpcp.top/mg/dzdy
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://115.190.210.84:3000/icon/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
-http://dassby.qqff.top:99/live/CHC高清/index.m3u8
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://115.190.210.84:3000/icon/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://115.190.210.84:3000/icon/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
+http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="http://115.190.210.84:3000/icon/淘剧场.png" group-title="🎬电影频道",淘剧场
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="http://115.190.210.84:3000/icon/淘剧场.png" group-title="🎬电影频道",淘剧场
