@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2026-08-02 19:15:03,http://39.77.159.145:4002/rtp/239.253.254.80:8000
+2026-08-03 06:47:46,http://39.77.159.145:4002/rtp/239.253.254.80:8000
 
 📺央视频道,#genre#
 CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.80:8000
-CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.121:5540
-CCTV-13,http://113.57.140.161:10081/newlive/live/hls/14/live.m3u8
+CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
+CCTV-14,http://101.66.194.121:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📡卫视频道,#genre#
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
@@ -19,10 +19,12 @@ CCTV-13,http://113.57.140.161:10081/newlive/live/hls/14/live.m3u8
 北京卡酷少儿,http://204.12.221.218:8181/3m1080p/btvkk.m3u8
 
 ☘️上海频道,#genre#
+全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
 全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 
 ☘️湖北频道,#genre#
+武汉新闻,http://vapi.91kds.cc/live2/hbwhtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=hbwhtv1
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
@@ -36,7 +38,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🏀体育频道,#genre#
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
 
