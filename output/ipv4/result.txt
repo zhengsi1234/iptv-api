@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2026-08-05 19:53:58,http://36.49.50.4:8800/rtp/239.37.0.121:5540
+2026-08-06 06:51:15,http://36.49.50.4:8800/rtp/239.37.0.232:5540
 
 📺央视频道,#genre#
-CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.121:5540
 CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
-CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.121:5540
 
 📡卫视频道,#genre#
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
@@ -19,10 +18,10 @@ CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 
 ☘️上海频道,#genre#
 全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
-全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 
 ☘️湖北频道,#genre#
+武汉新闻,http://vapi.91kds.cc/live2/hbwhtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=hbwhtv1
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
@@ -35,6 +34,8 @@ CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🏀体育频道,#genre#
+体育赛事,http://45.192.97.170:8880/play/4187.m3u8
+体育赛事,http://45.192.97.170:8880/play/4313.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 
