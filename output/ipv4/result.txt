@@ -1,13 +1,13 @@
 🕘️更新时间,#genre#
-2026-08-23 06:13:42,http://192.151.150.154/live/sjdl.m3u8
+2026-08-23 18:16:16,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
 
 💰央视数字频道,#genre#
-世界地理,http://192.151.150.154/live/sjdl.m3u8
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
 
 ☘️北京频道,#genre#
 北京卡酷少儿,http://204.12.221.218:8181/3m1080p/btvkk.m3u8
@@ -17,7 +17,6 @@
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 
 ☘️湖北频道,#genre#
-武汉新闻,http://vapi.91kds.cc/live2/hbwhtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=hbwhtv1
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
