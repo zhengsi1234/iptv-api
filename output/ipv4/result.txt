@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-26 18:27:17,http://192.151.150.154/live/sjdl.m3u8
+2026-08-27 10:27:19,http://192.151.150.154/live/sjdl.m3u8
 
 📺央视频道,#genre#
 
@@ -17,6 +17,7 @@
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 
 ☘️湖北频道,#genre#
+武汉新闻,http://vapi.91kds.cc/live2/hbwhtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=hbwhtv1
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
