@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-31 08:03:39,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
+2026-09-01 01:20:41,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
 
 📺央视频道,#genre#
 CCTV-10,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
@@ -8,13 +8,15 @@ CCTV-10,https://hwapi.yntv.net/62hdvf/utrat7.m3u8
 
 💰央视数字频道,#genre#
 电视指南,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
-世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
 世界地理,http://192.151.150.154/live/sjdl.m3u8
+世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
 
 ☘️北京频道,#genre#
 北京卡酷少儿,http://204.12.221.218:8181/3m1080p/btvkk.m3u8
 
 ☘️上海频道,#genre#
+全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
+全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 
 ☘️湖北频道,#genre#
