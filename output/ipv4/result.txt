@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-14 07:48:59,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
+2026-09-15 00:08:12,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
 
 📺央视频道,#genre#
 CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
@@ -7,7 +7,7 @@ CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
 📡卫视频道,#genre#
 
 💰央视数字频道,#genre#
-世界地理,http://173.208.212.130:8181/720p/sjdl.m3u8
+世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
 
 ☘️北京频道,#genre#
