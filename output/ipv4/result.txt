@@ -1,17 +1,14 @@
 🕘️更新时间,#genre#
-2026-09-19 21:38:03,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d9314dab837a29292bdb6342ab71d219
+2026-09-20 07:49:54,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
 
 📺央视频道,#genre#
-CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d9314dab837a29292bdb6342ab71d219
 CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
 
 📡卫视频道,#genre#
 
 💰央视数字频道,#genre#
-女性时尚,http://119.129.172.194:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-女性时尚,http://119.129.172.165:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-世界地理,http://192.151.150.154/live/sjdl.m3u8
+世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
 
 ☘️北京频道,#genre#
 
@@ -20,6 +17,7 @@ CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 
 ☘️湖北频道,#genre#
+武汉新闻,http://vapi.91kds.cc/live2/hbwhtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=hbwhtv1
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
@@ -28,13 +26,11 @@ CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
 纬来育乐,http://31.43.191.125:8080/restream/restream/34849
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
-纬来电影,http://31.43.191.125:8080/restream/restream/34852
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 靖天映画,http://31.43.191.125:8080/restream/restream/34838
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 龙祥电影,http://31.43.191.125:8080/restream/restream/34825
-东森洋片,http://31.43.191.125:8080/restream/restream/34904
 
 🏀体育频道,#genre#
 天津体育,http://168250.xyz:1111/rtp/239.5.1.3:5000
