@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zhengsi1234/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://115.190.210.84:3000/icon/CCTV1.png" group-title="🕘️更新时间",2026-09-26 08:17:48
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://115.190.210.84:3000/icon/CCTV1.png" group-title="🕘️更新时间",2026-09-26 22:00:41
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://115.190.210.84:3000/icon/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -38,9 +38,9 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://115.190.210.84:3000/icon/CCTV8.png" group-title="📺央视频道",CCTV-8
 http://goo.bkpcp.top/mg/cctv8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://115.190.210.84:3000/icon/CCTV9.png" group-title="📺央视频道",CCTV-9
-https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f2117a2643354d3dd455f1f8c3adec67
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=910f793dda12a80a16c0b266355a113f
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://115.190.210.84:3000/icon/CCTV9.png" group-title="📺央视频道",CCTV-9
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f2117a2643354d3dd455f1f8c3adec67
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://115.190.210.84:3000/icon/CCTV10.png" group-title="📺央视频道",CCTV-10
 http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://115.190.210.84:3000/icon/CCTV10.png" group-title="📺央视频道",CCTV-10
@@ -198,9 +198,9 @@ http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010113
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://115.190.210.84:3000/icon/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://z.b.bkpcp.top/m.php?id=sxws
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://115.190.210.84:3000/icon/四川卫视.png" group-title="📡卫视频道",四川卫视
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
+http://work.ruibang.ltd:5140/%E5%9B%9B%E5%B7%9D/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864KSDR
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://115.190.210.84:3000/icon/四川卫视.png" group-title="📡卫视频道",四川卫视
-http://z.b.bkpcp.top/m.php?id=scws
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://115.190.210.84:3000/icon/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://115.190.210.84:3000/icon/深圳卫视.png" group-title="📡卫视频道",深圳卫视
@@ -317,6 +317,10 @@ http://z.b.bkpcp.top/m.php?id=shys
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="http://115.190.210.84:3000/icon/东方财经.png" group-title="☘️上海频道",东方财经
 http://yc.myds.me:35455/itv/5000000007000010003.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="全纪实" tvg-logo="http://115.190.210.84:3000/icon/全纪实.png" group-title="☘️上海频道",全纪实
+http://139.196.151.191/rtp/239.45.3.135:5140
+#EXTINF:-1 tvg-name="全纪实" tvg-logo="http://115.190.210.84:3000/icon/全纪实.png" group-title="☘️上海频道",全纪实
+http://183.220.107.138:4022/rtp/239.10.0.105:5140
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="http://115.190.210.84:3000/icon/动漫秀场.png" group-title="☘️上海频道",动漫秀场
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="http://115.190.210.84:3000/icon/动漫秀场.png" group-title="☘️上海频道",动漫秀场
@@ -407,8 +411,6 @@ https://stream1.freetv.fun/shi-yan-xin-wen-3.m3u8
 https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 #EXTINF:-1 tvg-name="荆门新闻综合" tvg-logo="http://115.190.210.84:3000/icon/荆门新闻综合.png" group-title="☘️湖北频道",荆门新闻综合
 https://stream1.freetv.fun/jing-men-xin-wen-zong-he-3.m3u8
-#EXTINF:-1 tvg-name="武汉新闻" tvg-logo="http://115.190.210.84:3000/icon/武汉新闻.png" group-title="☘️湖北频道",武汉新闻
-http://vapi.91kds.cc/live2/hbwhtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=hbwhtv1
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://115.190.210.84:3000/icon/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://115.190.210.84:3000/icon/翡翠台.png" group-title="🌊港·澳·台",翡翠台
